@@ -9,10 +9,10 @@
 
 main:
   - title: "Curriculum Vitae"
-    url: /cv.md/
+    url: /cv/
 
   - title: "Notes"
-    url: /notes.html/
+    url: /notes/
 
 
  # - title: "博客"

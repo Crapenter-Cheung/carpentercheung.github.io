@@ -11,6 +11,9 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
+  - title: "Notes"
+    url: /notes/
+
 
  # - title: "博客"
  #  url: /year-archive/

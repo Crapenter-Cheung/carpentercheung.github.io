@@ -1,13 +1,14 @@
-----
+---
 layout: archive
 title: "Notes"
 permalink: /notes/
 author_profile: true
 redirect_from:
-  - /notes
+  - /resume
 ---
 
 {% include base_path %}
+
 
 在这里，我想记录一些已经读过的论文，一些重要的读书笔记，与之后的学习计划。
 ======

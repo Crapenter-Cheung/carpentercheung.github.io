@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+为天地立心，为生民立命，为往圣继绝学，为万世开太平。
+=====
 My name is Crapenter Cheung (张旻昊 in Chinese). I'm a one year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes algebraic geometry(Hilbert Scheme in particular), MacDonald polynomial and affine Hecke algebra.
 
 I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now supervised by [Dun Qiu](https://qiudun123.github.io/)
@@ -24,3 +26,4 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.c
 Here is my CV: [Crapenter Cheung's CV.](../assets/CVen.pdf)
 
 2024年5月，适逢本科毕业之时，为母校南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
+

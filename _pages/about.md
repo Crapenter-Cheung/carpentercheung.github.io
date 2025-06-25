@@ -20,7 +20,7 @@ I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.c
 ==
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 
-[https://crapenter-cheung.github.io/](https://crapenter-cheung.github.io/) 
+[My personal website](https://crapenter-cheung.github.io/) 
 
 
 Here is my CV: [Crapenter Cheung's CV.](../assets/CVen.pdf)

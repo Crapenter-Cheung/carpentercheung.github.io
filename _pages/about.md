@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Crapenter Cheung (张旻昊 in Chinese). I'm a one year undergraduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes algebraic geometry(Hilbert Scheme in particular), MacDonald polynomial and dyck path algebra.
+My name is Crapenter Cheung (张旻昊 in Chinese). I'm a one year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes algebraic geometry(Hilbert Scheme in particular), MacDonald polynomial and affine Hecke algebra.
 
-I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now advised by [Dun Qiu](https://qiudun123.github.io/)
+I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now supervised by [Dun Qiu](https://qiudun123.github.io/)
 .
  You can contact me via the following ways:
 
  
-[crapenter@mail.nku.edu.cn](mailto:crapenter@mail.nku.edu.cn) (recommended)
+[crapenter@mail.nku.edu.cn](mailto:crapenter@mail.nankai.edu.cn) (recommended)
 ==
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 

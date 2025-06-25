@@ -1,7 +1,7 @@
 ---
 title: "拓扑学"
 collection: notes
-permalink: /teaching/topology
+permalink: /notes/topology
 venue: "Nankai Uiversity, Department"
 date: 2025-06-30
 location: "Tianjin, China"

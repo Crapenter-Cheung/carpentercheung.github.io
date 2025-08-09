@@ -1,7 +1,7 @@
 ---
-title: '跃入星海--关于高中的记忆'
-date: 2020-10-14
-permalink: /posts/2020/10/跃入星海/
+title: '交换代数'
+date: 2025-08-09
+permalink: /posts/2025/08/交换代数/
 tags:
   - 代数
   - 交换代数

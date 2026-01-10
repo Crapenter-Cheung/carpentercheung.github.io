@@ -2,7 +2,7 @@
 title: "Shuffle theorem under some lattice path"
 collection: publications
 category: manuscripts
-permalink: /publication/2026
+permalink: /publication/2026-12-31-paper-Shuffle theorem under some lattice path-number-1
 excerpt: 'Shuffle theorem under some lattice path. In preparation.'
 date: 2026-12-31
 venue: 'Journal 1'

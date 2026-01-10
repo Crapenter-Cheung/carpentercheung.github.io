@@ -13,7 +13,7 @@ title                    : "Crapenter Cheung's homepage"
 title_separator          : "-"
 name                     : &name Crapenter-Cheung
 description              : &description A master student in Nankai University
-url                      : https://Crapenter-Cheung.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+#url                      : https://Crapenter-Cheung.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Crapenter-Cheung/Crapenter-Cheung.github.io"
 
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "photo.png"
   name             : "Crapenter Cheung(张旻昊)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/his"  
   bio              : "L'honneur de l'esprit humain."
   location         : "Tianjin, Cina"
   employer         : "Nankai University"

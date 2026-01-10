@@ -23,9 +23,6 @@ You can contact me via the following ways:
 
 Here is my CV: [Carpenter Cheung's CV.](../assets/CVen.pdf)
 
-<span style="color: red; font-weight: bold;">I am actively seeking a PhD position in Algebraic Combinatorics, with a planned start date in Fall 2027 or Spring 2028.</span>
-
-
 2024年5月，适逢本科毕业之时，为母校南京师范大学制作了一份beamer模板，业已上传至[overleaf](https://www.overleaf.com/latex/templates/nnu-beamer-carpenter/gfppmtqybvpb)。这是从Verona中改编得到的。希望后来者使用。
 
 

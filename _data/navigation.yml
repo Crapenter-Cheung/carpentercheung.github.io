@@ -11,8 +11,8 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
-  - title: "Useful links"
-    url: /useful_links/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Useful links"
+    url: /useful_links/

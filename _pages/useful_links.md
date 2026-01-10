@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Useful Links"
+title: "Useful Links & Resources"
 permalink: /useful_links/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-**Useful Links & Resources**
 
 This page lists some valuable online resources I've found helpful in my studies and research.
 

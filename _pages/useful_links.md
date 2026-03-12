@@ -20,7 +20,7 @@ The q,t-Catalan Numbers and the Space of Diagonal Harmonics, written by Jim, is 
 
 Lecture notes on the Carlsson-Mellit proof of the shuffle conjecture, written by Jim and Xin, which is more readable for the combinatorial community.[Link](https://arxiv.org/abs/1705.11064)
 
-Introduction to the Cohomology of the Flag Variety is a nice introduction to the field of Schubert calculus.[Linl](https://arxiv.org/abs/2506.21064v1)
+Introduction to the Cohomology of the Flag Variety is a nice introduction to the field of Schubert calculus.[Link](https://arxiv.org/abs/2506.21064v1)
 
 **Course Video Archive**
 
@@ -40,7 +40,7 @@ Symmetric Functions Website by Per Alexandersson: An essential encyclopedia for 
 
 Jim Haglund (University of Pennsylvania): A key researcher in the shuffle theorem and Macdonald polynomial.[Link](https://www2.math.upenn.edu/~jhaglund/)
 
-Anna Punying (Baruch College): Research in algebraic combinatorics and algebraic geometry. [Link](https://annapunying.wixsite.com/punying-math)
+Anna Pun (Baruch College): Research in algebraic combinatorics and algebraic geometry. [Link](https://annapunying.wixsite.com/punying-math)
 
 George H. Seelinger (University of Michigan): Catalanimals and Schubert calculus. [Link](https://ghseeli.github.io/)
 

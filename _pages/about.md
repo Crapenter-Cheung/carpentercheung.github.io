@@ -19,7 +19,7 @@ You can contact me via the following ways:
 
 [crapenter@njnu.edu.cn](mailto:crapenter@njnu.edu.cn) 
 
-[My personal website](https://crapentercheung.github.io/) 
+[My personal website](https://carpentercheung.github.io/) 
 
 Here is my CV: [Carpenter Cheung's CV.](../assets/CVen.pdf)
 

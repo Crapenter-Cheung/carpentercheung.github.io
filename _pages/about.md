@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Carpenter Cheung (张旻昊 in Chinese). I'm a second-year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes Macdonald polynomial and affine Hecke algebra, especially the nabla operator and the related topics concerning shuffle theorem.
+My name is Carpenter Cheung (张旻昊 in Chinese, zhāng mín hào in pinyin). I'm a second-year graduate student at [Center for Combinatorics](https://cfc.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interest includes Macdonald polynomial and affine Hecke algebra, especially the nabla operator and the related topics concerning shuffle theorem.
 
 I was very fortunate to be advised by [Prof. Haitao Cao](https://math.njnu.edu.cn/info/1074/6248.htm) from [School of Math Science](https://math.njnu.edu.cn/), Nanjing normal University during my undergraduate period. I am now supervised by [Dun Qiu](https://qiudun123.github.io/).
 
